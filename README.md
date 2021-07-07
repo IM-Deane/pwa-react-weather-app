@@ -1,5 +1,9 @@
 # Project: Progressive Web App: React Weather App
 
+[Live Demo](https://pwa-react-weather-app-im-deane.netlify.app/).
+
+_Current Version:_ 1.0
+
 ## Description:
 
 The goal of this app is to learn more about building a PWA. To facilitate this,
@@ -12,6 +16,18 @@ This app was built while following the JavaScript Mastery
 tutorial.
 
 ## Version History:
+
+_Version 1.0:_
+
+Finished the tutorial and I now have a working PWA weather app!
+
+You can view a live demo on Netlify
+[here](https://pwa-react-weather-app-im-deane.netlify.app/).
+
+This is a very interesting concept that may allow me to start building native
+style apps for clients.
+
+I'm excited to try creating something more useful in the future.
 
 _Version 0.1:_
 
